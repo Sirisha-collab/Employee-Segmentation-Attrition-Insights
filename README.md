@@ -1,4 +1,3 @@
-<img width="1490" height="1010" alt="ResearchPaper" src="https://github.com/user-attachments/assets/d72f2f7d-4b63-44af-8ffd-35d50237a0ab" />
 **Employee Attrition Prediction & Retention Intelligence (ML Project)**
 This project focuses on predicting employee attrition and uncovering key drivers behind workforce retention in IT organizations. By leveraging advanced machine learning techniques and feature engineering, the model provides actionable insights into employee behavior, satisfaction, and performance.
 
